@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 刘仁辉
-subtitle:
-description:  天行健，君子以自强不息；地势坤，君子以厚德载物
+title: 刘仁辉的博客
+subtitle: code|文学
+description:  天行健<br>君子以自强不息<br>地势坤<br>君子以厚德载物
 author: Reinhold
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -118,11 +118,11 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
+  categories: /categories/
   #about: /about/
   archives: /archives/
   tags: /tags/
-  #sitemap: /sitemap.xml
+  sitemap: /sitemap.xml
   #commonweal: /404.html
 
 
@@ -151,9 +151,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+# scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------

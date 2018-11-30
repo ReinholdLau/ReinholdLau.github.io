@@ -7,7 +7,7 @@
 title: 刘仁辉的博客
 subtitle: code|文学
 description:  天行健<br>君子以自强不息<br>地势坤<br>君子以厚德载物
-author: Reinhold
+author: Lau Reinhold
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -152,8 +152,8 @@ menu_icons:
 
 # Schemes
 # scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+# scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -232,7 +232,7 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
+# in directory: /reinholdlau.github.io/imgs/tbag.jpg
 #avatar:
 
 
